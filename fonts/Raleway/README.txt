@@ -1,27 +1,36 @@
-Inter Variable Font
-===================
+Raleway Variable Font
+=====================
 
-This download contains Inter as both a variable font and static fonts.
+This download contains Raleway as both variable fonts and static fonts.
 
-Inter is a variable font with these axes:
-  slnt
+Raleway is a variable font with this axis:
   wght
 
-This means all the styles are contained in a single file:
-  Inter-VariableFont_slnt,wght.ttf
+This means all the styles are contained in these files:
+  Raleway-VariableFont_wght.ttf
+  Raleway-Italic-VariableFont_wght.ttf
 
 If your app fully supports variable fonts, you can now pick intermediate styles
 that aren’t available as static fonts. Not all apps support variable fonts, and
-in those cases you can use the static font files for Inter:
-  static/Inter-Thin.ttf
-  static/Inter-ExtraLight.ttf
-  static/Inter-Light.ttf
-  static/Inter-Regular.ttf
-  static/Inter-Medium.ttf
-  static/Inter-SemiBold.ttf
-  static/Inter-Bold.ttf
-  static/Inter-ExtraBold.ttf
-  static/Inter-Black.ttf
+in those cases you can use the static font files for Raleway:
+  static/Raleway-Thin.ttf
+  static/Raleway-ExtraLight.ttf
+  static/Raleway-Light.ttf
+  static/Raleway-Regular.ttf
+  static/Raleway-Medium.ttf
+  static/Raleway-SemiBold.ttf
+  static/Raleway-Bold.ttf
+  static/Raleway-ExtraBold.ttf
+  static/Raleway-Black.ttf
+  static/Raleway-ThinItalic.ttf
+  static/Raleway-ExtraLightItalic.ttf
+  static/Raleway-LightItalic.ttf
+  static/Raleway-Italic.ttf
+  static/Raleway-MediumItalic.ttf
+  static/Raleway-SemiBoldItalic.ttf
+  static/Raleway-BoldItalic.ttf
+  static/Raleway-ExtraBoldItalic.ttf
+  static/Raleway-BlackItalic.ttf
 
 Get started
 -----------

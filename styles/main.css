@@ -1,0 +1,72 @@
+html {
+    background-color: #ebece3;
+  }
+  
+
+  body {
+    font-family: 'Raleway';
+    width: 1300px;
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+    color: #2D2A32
+  }
+
+
+/* BUTTONS*/
+.button-container {
+    font-family: 'Raleway';
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 45%;  /* Adjust as needed */
+    margin: 20px auto;  /* Center the container horizontally */
+}
+
+.btn {
+    padding: 10px 20px;      /* Space around the text */
+    text-decoration: none;  /* Removes the underline */
+    background-color: transparent;  /* No background color */
+    color: #333;  /* Initial text color */
+    font-weight: 700;  /* Slightly bigger text */
+    font-size: 1.2em;
+    transition: color 0.3s ease;  /* Smooth transition for color changes */
+}
+
+.btn:hover {
+    color: #9ca59b;  /* Darkened color on hover */
+}
+
+
+
+
+/* TEXT */
+
+h2 {
+    text-align: center;
+    font-weight: 900;
+}
+
+p
+   {
+    font-size: 16px;
+    line-height: 1.2;
+    letter-spacing: 1px;
+    font-weight: 500;
+    padding: 0.2em;
+  }
+
+li {
+    font-size: 14px;
+    line-height: 2;
+    letter-spacing: 1px;
+    font-weight: 300;  /* match the weight specified in the @font-face rule */
+}
+  
+
+/* Import Variable Font */
+@font-face {
+    font-family: 'Raleway';
+    src: url('../fonts/Raleway/Raleway-VariableFont_wght.ttf') format('truetype');
+    font-weight: 100 900; /* Definisci l'intervallo di pesi supportato dal tuo variable font */
+    font-display: swap; /* Opzionale, ma migliora le prestazioni del rendering del testo */
+}

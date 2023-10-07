@@ -1,0 +1,30 @@
+# Node modules (in case you use any tools or packages)
+node_modules/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor folders and files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Dist or build directories (if you have any)
+dist/
+build/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Log files
+*.log
+
+# HTML/CSS Project specific
+*.css.map
+*.js.map
+
+# GitHub workflows folder
+.github/workflows/
