@@ -1,14 +1,5 @@
-function multiply(num1, num2) {
-    return num1 * num2;
-}
-
-let result = multiply(15, 3);
-
-const resultElement = document.getElementById("multiplyResult");
-resultElement.textContent = "The result is: " + result;
-
 let myButton = document.querySelector("button");
-let myHeading = document.querySelector("h1");
+let myHeading = document.querySelector("h3");
 
 function setUserName() {
     const myName = prompt("Come ti chiami?");
