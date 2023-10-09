@@ -52,7 +52,7 @@ font-weight: 900;}
 p
    {
     font-size: 16px;
-    line-height: 1.6;
+    line-height: 1.7;
     letter-spacing: 1px;
     font-weight: 500;
     padding: 0.2em;
@@ -62,7 +62,7 @@ li {
     font-size: 16px;
     line-height: 2;
     letter-spacing: 1px;
-    font-weight: 300;  /* match the weight specified in the @font-face rule */
+    font-weight: 500;  /* match the weight specified in the @font-face rule */
 }
   
 
